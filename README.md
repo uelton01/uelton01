@@ -1,6 +1,6 @@
 # 🌍 Uelton Nascimento de Oliveira
 
-### Gestão Ambiental • Inteligência Artificial • Sustentabilidade
+### Sou Tecnólogo em Gestão Ambiental, pesquisador independente e fundador da Arkhevida, uma iniciativa dedicada ao desenvolvimento de soluções que unem Inteligência Artificial, Ciência e Sustentabilidade.
 
 > "Transformando conhecimento científico em soluções inteligentes para a gestão ambiental."
 
