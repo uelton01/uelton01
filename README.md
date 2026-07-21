@@ -2,7 +2,7 @@
 
 ### Sou Tecnólogo em Gestão Ambiental, pesquisador independente e fundador da Arkhevida, uma iniciativa dedicada ao desenvolvimento de soluções que unem Inteligência Artificial, Ciência e Sustentabilidade.
 
-> "Transformando conhecimento científico em soluções inteligentes para a gestão ambiental."
+> "Atualmente lidero o desenvolvimento do SASE (Scientific Autonomous Semantic Engine), uma plataforma de Inteligência Artificial criada para interpretar documentos científicos, construir relações semânticas e apoiar a tomada de decisão baseada em evidências."
 
 ---
 
